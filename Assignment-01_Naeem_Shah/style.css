@@ -1,0 +1,17 @@
+body {
+    background-color: #fff;
+    color: #002761;
+    font-family: Arial, sans-serif;
+}
+h1{
+    font-size: 3em;
+    margin-top: 0px; 
+    text-align: left;
+}
+
+section{
+    margin: 50px;
+    padding: 50px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
